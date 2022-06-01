@@ -1,4 +1,4 @@
-//[]操作符取值
+/*//[]操作符取值
 class MagicBox6<T : Human6> (vararg item: T) {
     var available = false
     //泛型如果是可变参数 在这里一定要写out
@@ -31,4 +31,4 @@ fun main() {
     }
 
     val boy6 = magicBox[1]
-}
+}*/
